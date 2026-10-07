@@ -1,0 +1,12 @@
+{
+  "name": "cyberdna",
+  "version": "1.0.0",
+  "description": "CyberDNA - AI-Powered Personal Cybersecurity Evolution Platform",
+  "scripts": {
+    "frontend": "npm run dev --prefix frontend",
+    "backend": "npm start --prefix backend",
+    "start": "npm run backend"
+  },
+  "author": "CyberDNA Team",
+  "license": "ISC"
+}
